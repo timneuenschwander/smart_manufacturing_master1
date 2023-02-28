@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Inventory
+comment0.text=\n\ The\ class\ Inventory\ defines\ the\ framework\ for\ managing\ raw\ material\n\n\ @author\ Gruppe\ 27\n\ @version\ 31.12.2022\n
+comment1.params=
+comment1.target=Inventory()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Inventory\n
+comment2.params=customerOrder
+comment2.target=int\ calculateBeschaffungsZeit(Order)
+comment2.text=\n\ @param\ Calculate\ the\ BeschaffungsZeit\ of\ the\ empty\ raw\ materials\n
+comment3.params=
+comment3.target=void\ fillInventory()
+comment3.text=\ \n\ @param\ Print\ that\ the\ ordered\ raw\ materials\ have\ been\ delivered\ &\ fill\ the\ inventory\ to\ his\ maximum\n
+comment4.params=
+comment4.target=void\ deliverRawMaterials()
+comment4.text=\ \n\ @param\ deliver\ ordered\ raw\ materials,\ same\ as\ fill\ inventory\n
+comment5.params=
+comment5.target=void\ printCurrentInventory()
+comment5.text=\n\ @param\ Print\ the\ current\ inventory\ levels\ of\ Aeki.\n
+numComments=6

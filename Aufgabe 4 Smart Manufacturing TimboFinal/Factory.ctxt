@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Factory
+comment0.text=\n\ The\ class\ Factory\ defines\ the\ framework\ for\ the\ factory\ that\ is\ embedded\ into\ our\ system\n\ \n\ @author\ Gruppe\ 27\n\ @version\ 31.12.2022\n
+comment1.params=
+comment1.target=Factory()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Factory\n
+comment2.params=newNumberSofas\ newNumberChairs
+comment2.target=void\ createOrder(int,\ int)
+comment2.text=\n\ @param\ Create\ an\ order\ including\ the\ desired\ amount\ of\ sofas,\ as\ well\ as\ the\ desired\ amount\ of\ chairs\n
+comment3.params=
+comment3.target=void\ printOrders()
+comment3.text=\n\ @param\ Print\ out\ all\ information\ associated\ to\ all\ orders\n
+comment4.params=orderNrDruck
+comment4.target=void\ printSpecificOrder(int)
+comment4.text=\n\ @param\ Print\ out\ all\ information\ associated\ to\ an\ order\n
+comment5.params=
+comment5.target=java.util.ArrayList\ gibOrders()
+comment5.text=\n\ @return\ Receive\ the\ list\ of\ orders\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\ \n\ @main\ Main\ method\ as\ entry\ point\ of\ the\ java\ application\n
+numComments=7

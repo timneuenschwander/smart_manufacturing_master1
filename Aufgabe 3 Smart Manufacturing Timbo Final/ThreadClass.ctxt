@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ThreadClass
+comment0.text=\n\ The\ class\ Supplier\ defines\ the\ framework\ for\ the\ Thread\ class.\n\n\ @author\ Gruppe\ 27\n\ @version\ 04.12.2022\n
+comment1.params=time
+comment1.target=void\ sleep(int)
+comment2.params=message
+comment2.target=void\ syncedPrintln(java.lang.String)
+numComments=3

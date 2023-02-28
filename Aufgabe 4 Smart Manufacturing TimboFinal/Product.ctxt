@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\n\ The\ class\ Product\ defines\ the\ framework\ for\ products\ that\ are\ embedded\ into\ our\ system\n\ \n\ @author\ Gruppe\ 27\n\ @version\ 31.12.2022\n
+comment1.params=
+comment1.target=Product()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Product\n
+comment2.params=newZustand
+comment2.target=void\ zustandAendern(int)
+comment2.text=\n\ @param\ Change\ the\ status\ of\ one\ specific\ product\n\ 1\ \=\ Order\ received\n\ 2\ \=\ In\ production\n\ 3\ \=\ Delivered\n
+comment3.params=
+comment3.target=void\ gibZustand()
+comment3.text=\n\ @param\ Print\ the\ status\ of\ one\ specific\ product\n
+comment4.params=
+comment4.target=int\ gibZustandNr()
+comment4.text=\n\ @return\ Receive\ the\ status\ number\ of\ one\ specific\ product\n
+comment5.params=robo1\ robo2\ robo3\ robo4
+comment5.target=void\ setzeProduktionsAblauf(Roboter,\ Roboter,\ Roboter,\ Roboter)
+comment5.text=\n\ @param\ The\ production\ process\ order\ is\ set\n
+comment6.params=
+comment6.target=Roboter\ naechsteProduktionsStation()
+comment6.text=\n\ @return\ The\ product\ is\ forwarded\ to\ the\ next\ production\ robot.\ The\ first\ robot\ in\ the\ linked\ list\ is\ deleted.\n
+numComments=7

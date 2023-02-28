@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Sofa
+comment0.text=\n\ The\ class\ Sofa\ defines\ the\ type\ of\ product\ a\ sofa\ resembles\n\ \n\ @author\ Gruppe\ 27\n\ @version\ 31.12.2022\n
+comment1.params=
+comment1.target=Sofa()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Sofa\n
+comment2.params=
+comment2.target=int\ getSofaHolzeinheiten()
+comment2.text=\n\ @return\ Receive\ the\ amount\ of\ "Holzeinheiten"\ of\ one\ specific\ Sofa\ object\n
+comment3.params=
+comment3.target=int\ getSofaSchrauben()
+comment3.text=\n\ @return\ Receive\ the\ amount\ of\ "Schrauben"\ of\ one\ specific\ Sofa\ object\n
+comment4.params=
+comment4.target=int\ getSofaKissen()
+comment4.text=\n\ @return\ Receive\ the\ amount\ of\ "Kissen"\ of\ one\ specific\ Sofa\ object\n
+comment5.params=
+comment5.target=int\ getSofaFarbeinheiten()
+comment5.text=\n\ @return\ Receive\ the\ amount\ of\ "Farbeinheiten"\ of\ one\ specific\ Sofa\ object\n
+comment6.params=
+comment6.target=int\ getSofaKartoneinheiten()
+comment6.text=\n\ @return\ Receive\ the\ amount\ of\ "Kartoneinheiten"\ of\ one\ specific\ Sofa\ object\n
+comment7.params=
+comment7.target=int\ getSofaProduktionsZeit()
+comment7.text=\n\ @return\ Receive\ the\ "ProduktionsZeit"\ of\ one\ specific\ Sofa\ object\n
+numComments=8

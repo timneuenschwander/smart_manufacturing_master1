@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Roboter
+comment0.text=\n\ The\ class\ Roboter\ defines\ the\ framework\ for\ producing\ products\n\n\ @author\ Gruppe\ 27\n\ @version\ 31.12.2022\n
+comment1.params=
+comment1.target=Roboter()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Roboter\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\n\ @param\ Check\ if\ there\ is\ an\ order\ in\ waiting\ list.\ If\ yes,\ forward\ it\ to\ the\ specific\ production\ roboter.\ \n\ If\ that\ worked,\ start\ production\ of\ ordered\ products.\n
+comment3.params=productToBeProducedRoboter
+comment3.target=void\ produziereProdukt(Product)
+comment3.text=\n\ @param\ Produce\ product\ &\ print\ the\ statement\n
+comment4.params=productToBeProducedWL
+comment4.target=void\ addToWaitingList(Product)
+comment4.text=\n\ @param\ Put\ product\ in\ Roboter's\ waiting\ list\ &\ print\ the\ statement\n
+comment5.params=time
+comment5.target=void\ setProductionTime(int)
+comment5.text=\n\ @param\ Set\ the\ production\ time\n
+comment6.params=
+comment6.target=java.lang.String\ giveName()
+comment6.text=\n\ @return\ Receive\ the\ name\ of\ the\ roboter\n
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Produktions_Manager
+comment0.text=\n\ The\ class\ Produktions_Manager\ defines\ the\ framework\ for\ managing\ the\ production\ of\ products\n\ \n\ @author\ Gruppe\ 27\n\ @version\ 04.12.2022\n
+comment1.params=
+comment1.target=Produktions_Manager()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Produktions_Manager\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\n\ @param\ Check\ if\ there\ is\ an\ order\ in\ waiting\ list.\ If\ yes,\ put\ it\ in\ production\ list.\ \n\ If\ that\ worked,\ start\ production\ of\ ordered\ products.\n
+comment3.params=orderToBeProducedZV
+comment3.target=void\ fuegeZuVerarbeitendeBestellungenHinzu(Order)
+comment3.text=\n\ @param\ Put\ order\ on\ the\ waiting\ list\ for\ production\n\ fuegeZuVerarbeitendeBestellungenHinzu(Order\ orderToBeProduced)\n
+comment4.params=orderToBeProducedManager
+comment4.target=void\ startProduction(Order)
+comment4.text=\n\ @param\ Put\ order\ on\ the\ waiting\ list\ for\ production\ in\ the\ roboter\ and\ change\ the\ product\ status\n\ startProduction(Order\ orderToBeProduced)\n
+numComments=5

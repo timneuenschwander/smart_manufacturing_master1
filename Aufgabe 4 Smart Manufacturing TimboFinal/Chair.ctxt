@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Chair
+comment0.text=\n\ The\ class\ Chair\ defines\ the\ type\ of\ product\ a\ chair\ resembles\n\ \n\ @author\ Gruppe\ 27\n\ @version\ 31.12.2022\n
+comment1.params=
+comment1.target=Chair()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Chair\n
+comment2.params=
+comment2.target=int\ getChairHolzeinheiten()
+comment2.text=\n\ @return\ Receive\ the\ amount\ of\ "Holzeinheiten"\ of\ one\ specific\ Chair\ object\n
+comment3.params=
+comment3.target=int\ getChairSchrauben()
+comment3.text=\n\ @return\ Receive\ the\ amount\ of\ "Schrauben"\ of\ one\ specific\ Chair\ object\n
+comment4.params=
+comment4.target=int\ getChairFarbeinheiten()
+comment4.text=\n\ @return\ Receive\ the\ amount\ of\ "Farbeinheiten"\ of\ one\ specific\ Chair\ object\n
+comment5.params=
+comment5.target=int\ getChairKartoneinheiten()
+comment5.text=\n\ @return\ Receive\ the\ amount\ of\ "Kartoneinheiten"\ of\ one\ specific\ Chair\ object\n
+comment6.params=
+comment6.target=int\ getChairProduktionsZeit()
+comment6.text=\n\ @return\ Receive\ the\ "ProduktionsZeit"\ of\ one\ specific\ Chair\ object\n
+numComments=7
